@@ -179,7 +179,7 @@ border-radius: 9px;
 margin: 10px;
 }
 .background{
-    background: rgba(0, 0, 0, 0.7) url('p8.jpg');
+    background: rgba(0, 0, 0, 0.7) url('main/p8.jpg');
     background-size: cover;
    background-blend-mode: darken;
 }
